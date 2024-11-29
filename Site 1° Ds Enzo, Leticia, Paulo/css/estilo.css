@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(129, 147, 144);
+    color: aliceblue;
+}
+
+nav{
+    text-align: center;
+    align-items: center;
+}
+
+/*COR DO LINK*/
+nav a{
+   color:rgb(255, 255, 255)
+}
+
+.intel{
+    text-align: center;
+    align-items: center;
+}
+
+.intel img{
+    height: 200px;
+}
+
+.membros{
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+
+.logo{
+    text-align: center;
+    align-items: center;
+}
+
+/*COR  DO TÍTULO DO INICIO*/
+h1{
+    color: aquamarine;
+    text-align: center;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+    align-items: center;
+}
