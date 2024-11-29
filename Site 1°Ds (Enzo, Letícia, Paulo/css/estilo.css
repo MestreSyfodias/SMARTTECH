@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(129, 147, 144);
+    color: aliceblue;
+}
+
+nav{
+    text-align: center;
+    align-items: center;
+}
+
+nav a{
+   color:rgb(73, 82, 204)
+}
+
+
+.membros{
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+.logo{
+    text-align: center;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+    align-items: center;
+}
+
+l{
+    text-align: center;
+    align-items: center;
+
+}
